@@ -6,3 +6,5 @@
   - Create CRUD API using node, express, prisma
   - use postgres (PG admin) for local host
   - recreate previous project templates and document thought process
+
+### Using sequelize CLI to set up models & migrations
